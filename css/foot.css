@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  #btn1 {
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  #btn1:hover {
+    background-color: black !important;
+    color: white !important;
+  }
+  
+  
+  body {
+    font-family: sans-serif;
+  }
+  .op {
+    font-size: 40px;
+    margin-left: 500px;
+    padding-top: 30px;
+  
+  }
+  
+  @media (max-width:750px) {
+    .op {
+      font-size: 35px;
+      margin-left: 100px;
+  
+    }
+  
+  }
+  
+  @media (max-width:580px) {
+    .op {
+      font-size: 30px;
+      margin-left: 60px;
+  
+    }
+  
+  }
+  
+  @media (max-width:420px) {
+    .op {
+      font-size: 28px;
+      margin-left: 40px;
+    }
+  }
+  
+  @media (max-width:446px) {
+    .op {
+      font-size: 25px;
+      margin-left: 30px;
+  
+    }
+  
+  }
+  
+  @media (max-width:390px) {
+    .op {
+      font-size: 20px;
+      margin-left: 25px;
+  
+    }
+  
+  }
+  
+  @media (max-width:333px) {
+    .op {
+      font-size: 17px;
+      margin-left: 10px;
+    }
+  }
+  
+  @media (max-width:245px) {
+    .op {
+      font-size: 15px;
+      margin-left: 3px;
+  
+    }
+  
+    @media (max-width:210px) {
+      .op {
+        font-size: 13px;
+        margin-left: 1px;
+  
+      }
+  
+    }
+  
+  }
+  h6 {
+    margin-left: 30px;
+    font-size: 19px !important;
+    font-weight: bold;
+    color: red !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  #price {
+    margin-left: 20px;
+    color: grey;
+    text-decoration: line-through;
+    font-size: 15px;
+  }
+  
+  span {
+    color: grey;
+    margin-left: 20px;
+  }
+  
+  #end {
+    font-size: 13px;
+    margin-left: 10px;
+  }
+  
+  b {
+    font-size: 14px !important;
+  }
+    #wft{
+        height: 350px;
+        /* width: 300px; */
+    }
+    #wft:hover{
+      border: 2px solid white;
+    box-shadow: 3px 5px 8px gray;
+    }
+    #sogo{
+        height:70px;
+         width:100px;
+    }
+  
